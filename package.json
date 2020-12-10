@@ -15,5 +15,8 @@
     "@babel/register": "^7.12.10",
     "chai": "^4.2.0",
     "mocha": "^8.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
   }
 }
